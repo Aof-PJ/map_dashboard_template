@@ -1,5 +1,6 @@
 # Dashboard Template (leaflet and flask)
-before start this app you should install [mongodb](https://www.mongodb.com/try/download/community) and python3 on your localhost 
+before start this app you should install [mongodb](https://www.mongodb.com/try/download/community) and python3(version : 3.8.10) on your localhost 
+
 
 ### Start
 ```
